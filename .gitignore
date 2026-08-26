@@ -1,0 +1,19 @@
+# Node dependencies & environment variables
+node_modules/
+.env
+.env.local
+*.log
+
+# Salesforce CLI local caches & auth files
+salesforce-core/.sf/
+salesforce-core/.sfdx/
+salesforce-core/local-only/
+
+# Mobile build outputs (Expo / React Native)
+mobile-client/.expo/
+mobile-client/dist/
+mobile-client/web-build/
+
+# OS junk files
+.DS_Store
+Thumbs.db
