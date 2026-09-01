@@ -1,4 +1,4 @@
-# StitchSync (`CSPLN`)
+# StitchSync
 
 An offline-first command center engineered for cosplayers, prop builders, and convention attendees to track event schedules, budget limits, and cosplay crafting progress.
 
